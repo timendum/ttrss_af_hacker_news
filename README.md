@@ -1,7 +1,7 @@
 af_hacker_news
 =================
 
-A Tiny Tiny RSS (http://tt-rss.org) plugin to fix article GUIDs and links in [Hacker News](https://news.ycombinator.com/)'s  feed
+A Tiny Tiny RSS (http://tt-rss.org) plugin to keep only the n-th first link in [Hacker News](https://news.ycombinator.com/)'s  feed
 
 Installation
 ------------
